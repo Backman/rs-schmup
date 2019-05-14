@@ -1,0 +1,8 @@
+[package]
+name = "rs-shmup"
+version = "0.1.0"
+authors = ["Arvid Backman <arvidbackman@protonmail.com>"]
+edition = "2018"
+
+[dependencies]
+amethyst = "0.10.0"
