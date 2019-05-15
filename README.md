@@ -1,1 +1,1 @@
-rs-schmup
+# Shoot 'em up in Rust
